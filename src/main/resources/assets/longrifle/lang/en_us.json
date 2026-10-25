@@ -1,0 +1,7 @@
+{
+  "item.longrifle.long_rifle": "Long Rifle",
+  "item.longrifle.iron_bullet": "Iron Bullet",
+  "entity.longrifle.iron_bullet": "Iron Bullet",
+  "death.attack.longrifle.bullet": "%1$s was shot by %2$s",
+  "death.attack.longrifle.bullet.item": "%1$s was shot by %2$s using %3$s"
+}

@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.longrifle.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"AbstractClientPlayerMixin",
+		"AvatarRendererMixin",
+		"HudMixin",
+		"MinecraftMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

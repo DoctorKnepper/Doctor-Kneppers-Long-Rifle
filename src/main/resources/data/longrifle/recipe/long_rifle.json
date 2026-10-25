@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:spyglass",
+    "I": "minecraft:iron_ingot",
+    "T": "minecraft:tripwire_hook",
+    "P": "#minecraft:planks"
+  },
+  "pattern": [
+    " S ",
+    "III",
+    "PT "
+  ],
+  "result": {
+    "id": "longrifle:long_rifle"
+  }
+}

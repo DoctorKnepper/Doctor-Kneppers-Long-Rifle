@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "longrifle",
+	"version": "${version}",
+	"name": "Long Rifle",
+	"description": "Adds a scoped long rifle that fires iron bullets. Left-click to fire from the hip, hold right-click to aim down the scope.",
+	"authors": [
+		"DoctorKnepper"
+	],
+	"contact": {
+		"homepage": "https://github.com/DoctorKnepper/MC-Long-Rifle",
+		"sources": "https://github.com/DoctorKnepper/MC-Long-Rifle",
+		"issues": "https://github.com/DoctorKnepper/MC-Long-Rifle/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/longrifle/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.longrifle.LongRifleMod"
+		],
+		"client": [
+			"com.longrifle.client.LongRifleClient"
+		]
+	},
+	"mixins": [
+		"longrifle.mixins.json",
+		{
+			"config": "longrifle.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
