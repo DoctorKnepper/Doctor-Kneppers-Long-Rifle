@@ -1,4 +1,4 @@
-# Long Rifle
+# Doctor Knepper's Long Rifle
 
 A scoped long rifle that fires iron bullets. Left-click to fire from the hip, hold right-click to aim down the scope.
 

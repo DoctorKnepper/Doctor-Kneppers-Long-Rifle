@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "longrifle",
 	"version": "${version}",
-	"name": "Long Rifle",
+	"name": "Doctor Knepper's Long Rifle",
 	"description": "Adds a scoped long rifle that fires iron bullets. Left-click to fire from the hip, hold right-click to aim down the scope.",
 	"authors": [
 		"DoctorKnepper"
