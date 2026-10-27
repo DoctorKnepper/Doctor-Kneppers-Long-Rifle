@@ -8,9 +8,9 @@
 		"DoctorKnepper"
 	],
 	"contact": {
-		"homepage": "https://github.com/DoctorKnepper/MC-Long-Rifle",
-		"sources": "https://github.com/DoctorKnepper/MC-Long-Rifle",
-		"issues": "https://github.com/DoctorKnepper/MC-Long-Rifle/issues"
+		"homepage": "https://github.com/DoctorKnepper/Doctor-Kneppers-Long-Rifle",
+		"sources": "https://github.com/DoctorKnepper/Doctor-Kneppers-Long-Rifle",
+		"issues": "https://github.com/DoctorKnepper/Doctor-Kneppers-Long-Rifle/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/longrifle/icon.png",

@@ -36,7 +36,7 @@ Install it on both the client and the server.
 
 ## Installing
 
-Download `long-rifle-<version>.jar` from the [releases page](https://github.com/DoctorKnepper/MC-Long-Rifle/releases), Modrinth or CurseForge, and put it in your `mods` folder along with Fabric API.
+Download `long-rifle-<version>.jar` from the [releases page](https://github.com/DoctorKnepper/Doctor-Kneppers-Long-Rifle/releases), Modrinth or CurseForge, and put it in your `mods` folder along with Fabric API.
 
 ## Building from source
 
